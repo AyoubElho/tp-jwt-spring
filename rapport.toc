@@ -1,0 +1,25 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Architecture Globale \& Authentification Stateless}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Objectif \& Problématique}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Schéma d'Architecture Globale en Couches}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Configuration, Modélisation JPA \& Objets de Transfert (DTOs)}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Configuration de l'Environnement}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Modélisation de l'Entité \texttt {AppUser} et Table \texttt {users}}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Couche d'Accès aux Données (\texttt {UserRepository})}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Objets de Transfert de Données (DTOs)}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Service Cryptographique et Gestion des Tokens (\texttt {JwtService})}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Anatomie d'un Jeton JWT}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Implémentation du Service \texttt {JwtService}}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Synthèse des Méthodes Cryptographiques}{6}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Gestion des Utilisateurs et Intégration Spring Security}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Intégration du Contrat Spring Security}{7}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Chaîne de Filtres et Pipeline d'Authentification}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Diagrammes de Séquence des Flux Sécurisés}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Configuration de Sécurité (\texttt {SecurityFilterChain})}{8}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Spécification des Endpoints, Tests et Validation}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Matrice des Endpoints de l'API}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Validation de la Compilation et Requête Postman}{9}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Sécurité Avancée, Révocation \& Scalabilité}{10}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Refresh Tokens \& Révocation avec Cache Redis}{10}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Signature Symétrique (HMAC) vs Asymétrique (RSA)}{11}{subsection.7.2}%
+\contentsline {section}{Conclusion}{11}{section*.14}%
