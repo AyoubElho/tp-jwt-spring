@@ -1,8 +1,0 @@
-\babel@toc {french}{}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces Architecture globale en couches du projet Spring Boot avec JWT\relax }}{3}{figure.caption.3}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Schéma de la table de persistance \texttt {users}\relax }}{4}{figure.caption.4}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Anatomie détaillée d'un jeton JSON Web Token (JWT)\relax }}{5}{figure.caption.5}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Cinématique d'authentification et émission du jeton\relax }}{8}{figure.caption.7}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Cinématique d'interception et validation du jeton par le filtre\relax }}{8}{figure.caption.8}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Exemple de requête d'authentification et obtention du jeton Bearer\relax }}{10}{figure.caption.12}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Architecture avec Refresh Token et Blacklisting via Redis\relax }}{11}{figure.caption.13}%
